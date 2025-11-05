@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2///chapter-0-prologue/"}
+{"dg-publish":true,"dg-path":"book-notes/사랑수업/chapter 0 prologue 모든 문제의 시작은 사랑.md","permalink":"/book-notes//chapter-0-prologue/"}
 ---
 
 [[2. 책/책/사랑수업/사랑수업\|사랑수업]]

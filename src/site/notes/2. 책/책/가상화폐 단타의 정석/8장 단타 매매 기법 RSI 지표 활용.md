@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2///8-rsi/"}
+{"dg-publish":true,"dg-path":"book-notes/가상화폐 단타의 정석/8장 단타 매매 기법 RSI 지표 활용.md","permalink":"/book-notes//8-rsi/"}
 ---
 
 [[2. 책/책/가상화폐 단타의 정석/가상화폐 단타의 정석\|가상화폐 단타의 정석]]
