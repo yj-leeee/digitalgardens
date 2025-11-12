@@ -1,5 +1,5 @@
 ---
-{"comment":null,"dg-publish":true,"permalink":"/2///8-rsi/","dgPassFrontmatter":true}
+{"comment":null,"dg-publish":true,"dg-permalink":"/가상화폐/팔장/","permalink":"/가상화폐/팔장/","dgPassFrontmatter":true}
 ---
 
 [[2. 책/책/가상화폐 단타의 정석/가상화폐 단타의 정석\|가상화폐 단타의 정석]]
